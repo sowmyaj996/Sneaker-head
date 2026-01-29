@@ -33,6 +33,4 @@ Sneakerhead is an e-commerce platform tailored for sneaker enthusiasts. The proj
 ## Installation
 
 1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/Sagarsunil16/Sneakerhead.git
-   cd Sneakerhead
+   https://github.com/sowmyaj996/Sneaker-head.git
